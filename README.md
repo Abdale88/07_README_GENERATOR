@@ -55,4 +55,4 @@ cabdale989@gmail.com
 
 
 ## here a link of walkthru video 
-https://drive.google.com/file/d/1kdK9unUUyHYNSnIe757aKUXsUSpwUa0p/view
+https://youtu.be/P8nMgxhbduQ
