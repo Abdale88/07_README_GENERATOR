@@ -72,3 +72,63 @@ ${email}
    
     writeToFile(useData);
 }
+
+
+// TODO: Create an array of questions for user input
+const questions = [
+    {
+  
+      type: "input",
+       message: "What's the title",
+       name: "title",
+    },
+    {
+      type: "input",
+       message: "Describe what your app does",
+       name: "Description",
+    },
+    {
+      type: "input",
+       message: "What are the steps required to install your project?",
+       name: "install",
+    },
+    {
+      type: "input",
+       message: "Please Provide instructions on how to use your app.?",
+       name: "usage",
+    },
+    {
+        type: 'list',
+        name: 'license',
+        message: 'What license did you use?',
+        choices: ['MIT', 'GPLv2', 'Apache', 'GPLv3', 'Unlicense', 'LGPLv3', 'AGPLv3', 'Other'],
+    },
+    {
+        type: "input",
+        message: "Who contributed to this app",
+        name: "contribution",
+    },
+    {
+        type: "input",
+        message: "How to run tests in your app?",
+        name: "testing",
+    },
+    {
+        type: "input",
+        message: "What's GitHub user name?",
+        name: "github"
+    },
+    {
+        type: "input",
+        message: "What's your email?",
+        name: "email",
+    },
+    {
+        type: "input", 
+        message: "how people should reach you for additional questions",
+        name: "info"
+    },
+     ];
+
+
+
