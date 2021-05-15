@@ -139,3 +139,6 @@ function init(questions) {
  }
 
 
+ // Function call to initialize app
+ init(questions);
+ 
