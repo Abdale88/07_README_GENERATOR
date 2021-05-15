@@ -131,4 +131,11 @@ const questions = [
      ];
 
 
+// TODO: Create a function to initialize app
+function init(questions) {
+    inquirer.prompt(questions).then((data) => {
+        readMe(data);
+    })
+ }
+
 
