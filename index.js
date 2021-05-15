@@ -53,7 +53,8 @@ function readMe(data){
  ${usage}
 
 ## License
- ${license}
+This project is licensed under the ${license} license.
+ 
  
 
 ## Contributing
