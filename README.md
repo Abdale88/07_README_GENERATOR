@@ -38,7 +38,7 @@
  Please run the following command for usage of this app 	`node index.js`
 
 ## License
- MIT
+ This project is licensed under the MIT license.
  
 
 ## Contributing
@@ -52,5 +52,7 @@
 Fore more questions, please send me an email
 cabdale989@gmail.com
 ![Here is a link to my GitHub]https://github.com/Abdale88
-     
-    
+
+
+## here a link of walkthru video 
+https://drive.google.com/file/d/1kdK9unUUyHYNSnIe757aKUXsUSpwUa0p/view
